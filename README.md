@@ -1,5 +1,3 @@
-# Quantum Machine Learning with Qiskit
-
 # Quantum Kernel with Qiskit
 
 Notebook from the *Bari Master QML* course illustrating how to use **quantum kernels** for classification, clustering, and kernel PCA with `qiskit-machine-learning`.
